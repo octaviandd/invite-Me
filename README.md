@@ -3,6 +3,7 @@
 
 # invite-Me
 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 Fully responsive, with own server, invitations system web app using React.js, where user can easily manage invitations. Each user can create an account an manage it. 
 
 Available routes:
