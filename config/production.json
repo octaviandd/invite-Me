@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://octavian:octavian@cluster0-bnkbd.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "myJWTsecret"
+}
