@@ -1,3 +1,3 @@
 # invite-Me
 
-![](home-page.png)
+![](linkedin_banner_image_1.png)
