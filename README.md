@@ -12,6 +12,7 @@ Available routes:
 - `/login`
 
 ## Table of contents
+
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Used packages and tools](#used-packages-and-tools)
